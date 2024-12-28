@@ -35,7 +35,7 @@ This project is a beautifully designed **Real-Time Weather App** built using **K
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/your-repository-name.git  
+   git clone https://github.com/Divyansh5070/your-repository-name.git  
    ```  
 
 2. Open the project in **Android Studio**.  
